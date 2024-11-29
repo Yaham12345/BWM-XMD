@@ -11,7 +11,7 @@
     "PREFIX":
     {
       "description":"choose your prefix for your bot",
-      "value":".",
+      "value":",",
       "required":true
     },
 "AUTO_REACT":
